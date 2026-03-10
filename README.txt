@@ -26,4 +26,3 @@ DEPLOY
   Netlify Drop: drag this folder to app.netlify.com/drop
   GitHub Pages: push to repo → Settings → Pages → main branch
 
-Built with Obvious · March 2026
