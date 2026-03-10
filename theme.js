@@ -1,7 +1,5 @@
-// =============================================================================
+
 // THEME TOGGLE
-// Supports: system preference, manual toggle, localStorage persistence
-// =============================================================================
 
 ;(() => {
   const STORAGE_KEY = 'obvious-theme'
