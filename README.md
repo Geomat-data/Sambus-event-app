@@ -1,1 +1,0 @@
-# Sambus-event-app
