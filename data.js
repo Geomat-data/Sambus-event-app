@@ -22,7 +22,7 @@
 const APP_DATA = {
 
   // ── SITE CONFIG ────────────────────────────────────────────────────────────
-  // Logo: set to a file path e.g. "images/logo.png", or "" for default letter mark
+  // Logo: set to a file path e.g. "images/sambus-logo.jpg", or "" for default letter mark
   logo: "",
 
   // Registration link — applied to nav Register button + hero Register Now button
