@@ -23,7 +23,7 @@ const APP_DATA = {
 
   // ── SITE CONFIG ────────────────────────────────────────────────────────────
   // Logo: set to a file path e.g. "images/sambus-logo.jpg", or "" for default letter mark
-  logo: "",
+  logo: "sambus-logo.jpg",
 
   // Registration link — applied to nav Register button + hero Register Now button
   registrationUrl: "https://sambusgeospatial.com/esri-user-conference-west-africa/",
