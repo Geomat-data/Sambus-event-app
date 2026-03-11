@@ -26,7 +26,7 @@ const APP_DATA = {
   logo: "",
 
   // Registration link — applied to nav Register button + hero Register Now button
-  registrationUrl: "https://sambus.co.ke/events",
+  registrationUrl: "https://sambusgeospatial.com/esri-user-conference-west-africa/",
 
   // Current event details
   currentEvent: {
